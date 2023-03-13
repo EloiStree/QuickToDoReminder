@@ -13,3 +13,6 @@ When you use 4-7 Quests, they need to stay in place. So you need color numbered 
 ToDo: Think and try to create an object to put on the ground to hold the quest and identify the color of the quest and the ground quickly from 10 meters from distance.
 
 --------------------
+
+
+Buy some "Xbox controller" like to connect to Quest 2 for small kids hand (6-12) for next Drone XR event.
