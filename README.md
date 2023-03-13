@@ -22,3 +22,4 @@ Buy some "Xbox controller" like to connect to Quest 2 for small kids hand (6-12)
 -------------
 Do an ADB tool box that works with all/most of those command :
 https://techblogs.42gears.com/list-of-all-widely-used-abd-commands/
++ Take screenshot: adb exec-out screencap -p > screen.png
